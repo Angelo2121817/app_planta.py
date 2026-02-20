@@ -1,0 +1,1 @@
+web: streamlit run app_planta.py --server.port $PORT
